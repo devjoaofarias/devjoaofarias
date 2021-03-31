@@ -1,6 +1,6 @@
 ## 👋 Saudações visitante, me chamo João Santos! 👋
 
-Tenho 18 anos, sou um desenvolvedor fullstack, estudo programação desde os 16, formado como técnico em desenvolvimento de sistemas pelo SENAI, hoje curso redes de computadores também no SENAI, apaixonado pelo mundo da tecnologia sempre estou buscando aprimorar meus conhecimentos e aprender ferramentas novas!
+Tenho 18 anos, sou um desenvolvedor fullstack, estudo programação desde os 16, formado como técnico em desenvolvimento de sistemas pelo SENAI, hoje curso redes de computadores também no SENAI, apaixonado pelo mundo da tecnologia, sempre estou buscando aprimorar meus conhecimentos e aprender ferramentas novas!
 
 ### Estatísticas:
 ![Devjoaosantos GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjoaosantos&show_icons=true&theme=radical)
