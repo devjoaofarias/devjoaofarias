@@ -3,10 +3,8 @@
 Tenho 18 anos, estudo programação desde os 16, formado como técnico em desenvolvimento de sistemas, atualmente sou Desenvolvedor Fullstack Trainee na RCB Investimentos, apaixonado pelo mundo da programação, sempre busco aprimorar minhas habilidades e conhecer mais sobre este mundo!
 
 ### Estatísticas:
-![Devjoaosantos GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjoaosantos&show_icons=true&theme=radical)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoaosantos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaosantos&layout=compact&langs_count=7&theme=gruvbox"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoaosantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaosantos&layout=compact&langs_count=7&theme=radical"/>
 
 ### Habilidades técnicas:
 
