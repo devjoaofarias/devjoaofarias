@@ -4,6 +4,9 @@ Tenho 18 anos, estudo programação desde os 16, formado como técnico em desenv
 
 ### Estatísticas:
 ![Devjoaosantos GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjoaosantos&show_icons=true&theme=radical)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoaosantos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaosantos&layout=compact&langs_count=7&theme=gruvbox"/>
+
 
 ### Habilidades técnicas:
 
