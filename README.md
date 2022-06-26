@@ -1,6 +1,6 @@
 ## 👋 Saudações visitante, me chamo João Santos! 👋
 
-Tenho 18 anos, estudo programação desde os 16, formado como técnico em desenvolvimento de sistemas, atualmente sou Desenvolvedor Fullstack Trainee na RCB Investimentos, apaixonado pelo mundo da programação, sempre busco aprimorar minhas habilidades e conhecer mais sobre este mundo!
+Tenho 19 anos, estudo programação desde os 16, formado como técnico em desenvolvimento de sistemas, atualmente sou Desenvolvedor Fullstack na RCB Investimentos, onde atuo diariamente com html, css, javascript, jquery, razor (c#), .net (c#), sqlserver e redis. Apaixonado pelo mundo da programação, sempre busco aprimorar minhas habilidades e conhecer mais sobre este mundo!
 
 ### Estatísticas:
 <div align="center">
