@@ -1,6 +1,6 @@
 ## 👋 Saudações visitante, me chamo João Santos! 👋
 
-Tenho 19 anos, estudo programação desde os 16, formado como técnico em desenvolvimento de sistemas, graduando análise e desenvolvimento de sistemas, atualmente sou Desenvolvedor Fullstack na RCB Investimentos, onde atuo diariamente com html, css, javascript, jquery, razor (c#), .net (c#), sqlserver e redis. Apaixonado pelo mundo da programação, sempre busco aprimorar minhas habilidades e conhecer mais sobre este mundo!
+Formado como técnico em desenvolvimento de sistemas, graduando análise e desenvolvimento de sistemas, atuo como desenvolvedor fullstack, utilizando diariamente html, css, javascript, bootstrap, jquery, json, ajax, razor pages (c#), .net (c#), servicestack, sqlserver e redis. Apaixonado pelo mundo da programação, sempre busco aprimorar minhas habilidades e conhecer mais sobre este mundo!
 
 ### Estatísticas:
 <div align="center">
@@ -14,26 +14,26 @@ Tenho 19 anos, estudo programação desde os 16, formado como técnico em desenv
 #### Frontend:
 ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Razor Badge](https://img.shields.io/badge/Razor-3498DB?style=for-the-badge&logo=razor&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Xamarin Badge](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Razor Pages Badge](https://img.shields.io/badge/Razor_Pages-3498DB?style=for-the-badge&logo=razorpages&logoColor=white)
+
 
 #### Backend:
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![NodeJs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![ServiceStack Badge](https://img.shields.io/badge/ServiceStack-696969?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework Badge](https://img.shields.io/badge/Entity_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Json Badge](https://img.shields.io/badge/Json-cf5130?style=for-the-badge&logo=json&logoColor=white)
+![.Ajax Badge](https://img.shields.io/badge/Ajax-61959e?style=for-the-badge&logo=ajax&logoColor=black)
+
 
 #### Banco de dados:
 ![SqlServer Badge](https://img.shields.io/badge/SqlServer-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySql Badge](https://img.shields.io/badge/MySql-d77028?style=for-the-badge&logo=sqlite&logoColor=316fce)
+![Redis Badge](https://img.shields.io/badge/Redis-bc001d?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### Plataformas/Ferramentas:
-![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
