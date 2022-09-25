@@ -1,12 +1,12 @@
-## 👋 Saudações visitante, me chamo João Santos! 👋
+## 👋 Saudações visitante, me chamo João Farias! 👋
 
 Formado como técnico em desenvolvimento de sistemas, graduando análise e desenvolvimento de sistemas, atuo como desenvolvedor fullstack, utilizando diariamente html, css, javascript, bootstrap, jquery, json, ajax, razor pages (c#), .net (c#), servicestack, sqlserver e redis. Apaixonado pelo mundo da programação, sempre busco aprimorar minhas habilidades e conhecer mais sobre este mundo!
 
 ### Estatísticas:
 <div align="center">
-   <a href="https://github.com/devjoaosantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoaosantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaosantos&layout=compact&langs_count=7&theme=radical"/>
+   <a href="https://github.com/devjoaofarias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoaofarias&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaofarias&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ### Habilidades técnicas:
