@@ -90,7 +90,7 @@ Atuo em ambientes de alta demanda, incluindo plataformas financeiras e portais c
 
 ## Formação
 
-- Análise e Desenvolvimento de Sistemas — **UNICID** (em andamento)
+- Análise e Desenvolvimento de Sistemas — **UNICID**
 - Técnico em Desenvolvimento de Sistemas — **SENAI**
 
 ---
